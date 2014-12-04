@@ -1,0 +1,8 @@
+.*
+/bin
+/obj
+/spnego
+/mod_auth_kerb
+lib_finder.script
+kerberos_app.*
+!.gitignore
